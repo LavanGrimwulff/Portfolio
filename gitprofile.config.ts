@@ -8,7 +8,7 @@ const CONFIG = {
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
    * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
    * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
-   */
+   */ I don't know why this isn't working
   base: '/Portfolio/',
   projects: {
     github: {
